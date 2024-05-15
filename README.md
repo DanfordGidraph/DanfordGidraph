@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋 Hi there! I'm a Software Engineer with 7+ years of experience specializing in mobile and cloud-based development. 
+I'm a Software Engineer with 7+ years of experience specializing in mobile and cloud-based development. 
 
 📱 I have a strong background in cross-platform mobile and web development technologies, including React Native, React Web, and Google's Flutter. I've built numerous Android and iOS applications from scratch and optimized existing ones, always with performance and scalability in mind.
 
