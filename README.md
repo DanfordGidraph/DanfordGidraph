@@ -13,7 +13,7 @@ I'm a Software Engineer with 7+ years of experience specializing in mobile and c
 💡 I'm passionate, dedicated, and always keep scalability in mind, whether I'm building a new mobile application from scratch or developing a backend system for an existing application. Looking forward to contributing to and learning from the GitHub community!
 
 ### Resume
-[My Resume](https://github.com/user-attachments/files/15956623/Gidraph_Danford_Resume.pdf)
+#[My Resume](https://github.com/user-attachments/files/15956623/Gidraph_Danford_Resume.pdf)
 
 ### My Stats
 
